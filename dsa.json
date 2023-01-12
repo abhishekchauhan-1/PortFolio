@@ -1,47 +1,34 @@
 [
     {
-        "name": "C++ DSA Codes",
-        "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png",
-        "link": "https://github.com/maityamit/Cpp-DSA-Notes-and-Programs"
+        "name": "DSA Codes",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+        "link": "https://github.com/codewithabhi12/Data-Structures-And-Algorithms"
     },
     {
-        "name": "C++ DSA Notes",
-        "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png",
-        "link": "https://drive.google.com/drive/folders/1k1fOYHfrwnkUejehQZdSBsbMjdt0urs8"
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png",
+        "link": "https://github.com/codewithabhi12/calculator-App"
     },
     {
-        "name": "LeetCode Practice🧑‍💻",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png",
-        "link": "https://github.com/maityamit/LeetCode-Practice"
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
+        "link": "https://github.com/codewithabhi12/Static-HTML-Blog-"
     },
     {
-        "name": "Striver CP Sheet🧑‍💻",
-        "icon": "https://img.icons8.com/clouds/50/000000/rocket.png",
-        "link": "https://github.com/maityamit/Striver-CP-Sheet"
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png",
+        "link": "https://github.com/codewithabhi12/calculator-App"
     },
-    {
-        "name": "Android Guides",
-        "icon": "https://img.icons8.com/bubbles/50/000000/android-os.png",
-        "link": "https://github.com/maityamit/Android-Development-Codes-and-Notes"
-    },
+    
     {
         "name": "Jetpack Compose",
         "icon": "https://img.icons8.com/color/50/000000/kotlin.png",
-        "link": "https://github.com/maityamit/Jetpack-Compose-Android"
+        "link": "https://github.com/codewithabhi12/calculator-App"
     },
-    {
-        "name": "Striver A2ZSDE Sheet",
-        "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png",
-        "link": "https://github.com/maityamit/Strivers-A2Z-DSA-Sheet"
-    },
-    {
-        "name": "Flutter Notes",
-        "icon": "https://img.icons8.com/color/50/000000/flutter.png",
-        "link": "https://github.com/maityamit/Flutter-App-Development-Learn"
-    },
+    
     {
         "name": "Web Dev",
         "icon": "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
-        "link": "https://github.com/maityamit/The-Complete-2022-Web-Development-Bootcamp-by-Angela-Yu"
+        "link": "https://github.com/codewithabhi12/calculator-App"
     }
 ]
